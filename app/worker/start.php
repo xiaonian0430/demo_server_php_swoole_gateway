@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Xielei\Swoole\Worker;
+use SwooleGateway\Worker;
 
 require __DIR__ . '/../../vendor/autoload.php';
 

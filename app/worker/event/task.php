@@ -2,7 +2,7 @@
 
 use Swoole\Server\PipeMessage;
 use Swoole\Server\Task;
-use Xielei\Swoole\Helper\TaskEvent as HelperTaskEvent;
+use SwooleGateway\Helper\TaskEvent as HelperTaskEvent;
 
 class TaskEvent extends HelperTaskEvent
 {

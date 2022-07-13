@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 use Swoole\Server\PipeMessage;
 use Swoole\Server\TaskResult;
-use Xielei\Swoole\Api;
-use Xielei\Swoole\Helper\WorkerEvent as HelperWorkerEvent;
+use SwooleGateway\Api;
+use SwooleGateway\Helper\WorkerEvent as HelperWorkerEvent;
 
 class WorkerEvent extends HelperWorkerEvent
 {
