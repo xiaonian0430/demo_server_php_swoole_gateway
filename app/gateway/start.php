@@ -1,10 +1,10 @@
 <?php
 
 declare(strict_types=1);
-
+require __DIR__ . '/../../vendor/autoload.php';
 use SwooleGateway\Gateway;
 
-require __DIR__ . '/../../vendor/autoload.php';
+
 
 $gateway = new Gateway();
 

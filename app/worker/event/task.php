@@ -1,5 +1,5 @@
 <?php
-
+declare(strict_types=1);
 use Swoole\Server\PipeMessage;
 use Swoole\Server\Task;
 use SwooleGateway\Helper\TaskEvent as HelperTaskEvent;

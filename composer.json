@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "hiper/swoole-gateway": "^1.0.*"
+        "hiper/swoole-gateway": "1.0.*"
     }
 }

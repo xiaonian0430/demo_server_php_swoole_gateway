@@ -1,5 +1,5 @@
 <?php
-
+declare(strict_types=1);
 // 配置文件修改后立即生效(无须重启服务器)
 
 return [

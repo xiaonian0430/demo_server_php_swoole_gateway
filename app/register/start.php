@@ -1,10 +1,9 @@
 <?php
-
 declare(strict_types=1);
-
+require __DIR__ . '/../../vendor/autoload.php';
 use SwooleGateway\Register;
 
-require __DIR__ . '/../../vendor/autoload.php';
+
 
 $register = new Register('0.0.0.0', 9327);
 
