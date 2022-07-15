@@ -1,3 +1,3 @@
 #!/bin/bash
-composer install
+composer update
 php app/register/start.php start
